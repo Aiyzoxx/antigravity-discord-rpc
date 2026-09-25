@@ -18,7 +18,7 @@ Watcher autonome pour afficher en direct votre activité Antigravity 2.0 sur vot
 Double-clic sur `start_rpc.bat`.
 
 ### Mode silencieux (arrière-plan) :
-Double-clic sur `start_rpc_background.vbs`.
+Double-clic sur `start_background.bat`.
 
 ### Arrêt du mode silencieux :
 Double-clic sur `stop_rpc.bat`.
