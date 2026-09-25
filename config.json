@@ -1,0 +1,19 @@
+{
+  "client_id": "1553111440620257310",
+  "poll_interval": 3,
+  "language": "fr",
+  "show_project": true,
+  "show_tool_action": true,
+  "process_names": [
+    "Antigravity.exe",
+    "Antigravity IDE.exe"
+  ],
+  "assets": {
+    "large_image": "https://cdn.discordapp.com/app-icons/1553111440620257310/d4f5fd6e68fb55e70adadea7acdca79c.png?size=512",
+    "large_text": "Antigravity 2.0",
+    "small_image_working": "",
+    "small_text_working": "Agent actif",
+    "small_image_idle": "",
+    "small_text_idle": "Agent en attente"
+  }
+}
